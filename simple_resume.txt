@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            table,th,td{
+                border:1px solid black;
+                border-collapse: collapse;
+            }
+            th,td{
+                padding: 8px;
+            }
+        </style>
+        <title>RESUME</title>
+        <h2 style="text-align:center">KOYYANA MOUNIKA    </h2>
+        <h4>Email:<a href="mounisri@gmail.com">"mounisri@gmail.com"</a></h4>
+    </head>
+        <body>
+            <h3 ><u>Objective:</u></h3>
+        <p>Seeking a fresher job to associate myself with an organization that
+            supplements my knowledge and enables me to play a vital role in its growth
+            through application of my creative ,technical and academic skills.
+        </p>   
+        <table style="width:100%"><h3>Education</h3>
+            <tr>
+                <th>Year</th>
+                <th>Degree</th>
+                <th>Institute</th>
+                <th> </th>
+            </tr>
+            <tr>
+                <td>2020</td>
+                <td>B.Tech</td>
+                <td>Vignan institute of information techonology</td>
+                <td>7.2 CGPA</td>
+            </tr>
+            <tr>
+                <td>2016</td>
+                <td>Intermidiate</td>
+                <td>Narayana junior college</td>
+                <td>93.00 %</td>
+            </tr>
+            <tr>
+                <td>2014</td>
+                <td>SSC</td>
+                <td>Saraswathi Vidya Vihar</td>
+                <td>7.50 GPA</td>
+            </tr>
+        </table> 
+        <h3>Key Skills</h3>
+        <h4>Technical Skills</h4>
+        <p>-  Languages: C, JS, Python Basics, HTML,CSS</p>
+        <h4>Inter Personal Skills</h4>
+        <p>
+            -  Good Team Player<br>
+            -  Positive attitute towards career and goals<br>
+            -  Adaptive nature<br>
+            -  Effective Listening<br>
+            -  Problem Solving<br>
+        </p>
+        <table>
+        <h3>Projects/Dissertation</h3>
+        <tr>
+            <td>Title</td>
+            <td>"Analysys of Literacy Rate using Python"</td>
+        </tr>
+        <tr>
+            <td>Technology used</td>
+            <td>Python,Jupyter Lab</td>
+        </tr>
+        <tr>
+        <td>Description</td>
+         <td>Change in Literacy with respect to population is very less.<br>
+        If we can find different factors which effect literacy rate in <br>
+        specific states or district there can be improvement  </td>
+        </tr>
+        <tr>
+            <td>Role</td>
+            <td>Team player</td>
+        </tr>
+        </table>
+        <h3>Extra-Curricular</h3>
+            <ul>
+                <li>Organized various workshops at college</li>
+                <li>Good leadership skills & Learning skills</li>
+            </ul>
+            <h3>Other Intrests and Hobbies</h3>
+            <p>- Dance</p>
+            <h3>Personal Statement</h3>
+             <p>I have always tried to model my life on the basis of the following values,<br>
+                which have been imbibed in me by my family right from childhood.</p>
+            <ul>
+                <li>I always put Sincere effors for my task given</li>
+                <li>I am hard working and fast learner and always open to learn new techonologies.</li>
+                <li>I maintain the virtues of a clear conscience,high values and ethics.</li>
+            </ul>
+            <h3 style="border:2px solid ">Personal Details</h3>
+            Father's Name:     K.LRao<br>
+            Gender&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Female
+            <br>
+            Languages&nbsp;&nbsp;: English, Hindi, Telugu,Tamil<br>
+            Nationality&nbsp;&nbsp; :Indian<br>
+            <h3>Declaration</h3>
+            <p>I here by Declare that the above mentioned information is correct upto my knowledge and I bear the reponsibility for the correctness of the above mentioned particulars.</p>
+            </body>
+</html>
